@@ -1,0 +1,20 @@
+.cities-container {
+    background-image: url('https://res.cloudinary.com/dhik9tnvf/image/upload/v1725790246/tender-flow-azure-cloud_bo0y0h.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content-wrapper {
+    background-color: transparent; /* Transparent black background for readability */
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
